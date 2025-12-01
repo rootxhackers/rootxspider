@@ -1,0 +1,8 @@
+Flag: RootX{Hello I'm RootX}
+
+- test.
+- RootXHackers :)
+
+Encryption Base64:
+
+VGhpcyBpcyBqdXN0IGEgdGVzdCBvZiBkb3dubG9hZGluZyBhIGZpbGUsIGFuZCBpdCdzIGNvbnNpZGVyZWQgZGFuZ2Vyb3VzOyB3ZSBjb3VsZCBlbmQgdXAgd2l0aCBhIGZpbGUgY29udGFpbmluZyBoYXJtZnVsIHZpcnVzZXMgb3Igb3RoZXIgdGhpbmdzLCBidXQgdGhpcyBpcyBqdXN0IGFuIGV0aGljYWwgZXhwZXJpbWVudC4=
